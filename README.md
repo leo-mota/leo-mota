@@ -1,6 +1,6 @@
 # Olá, pessoal!
 
-Meu nome é Leonardo, mas pode me chamar de Léo. 
+Meu nome é Leonardo, mas podem me chamar de Léo. 
 
 #### Sou Desenvolvedor Front-End, formado pela Cubos Academy, apaixonado por programar e compartilhar conhecimento e experiências.
 
