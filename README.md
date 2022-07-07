@@ -2,9 +2,9 @@
 
 > ... mas pode me chamar de Léo.
 
-### :technologist: Apaixonado por programar e compartilhar conhecimento e experiências. 
+### :heavy_check_mark: Apaixonado por programar e compartilhar conhecimento e experiências. 
 
-### Aqui você encontrará todos os projetos desenvolvidos e co-participados por mim. Espero que goste!
+### :heavy_check_mark: Aqui você encontrará todos os projetos desenvolvidos e co-participados por mim. Espero que goste!
 
 ### :link: Para me encontrar:
 
