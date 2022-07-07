@@ -1,8 +1,8 @@
 # Olá, pessoal!
 
-Meu nome é Leonardo, mas podem me chamar de Léo. 
+> Meu nome é Leonardo, mas podem me chamar de Léo. 
 
-#### Sou Desenvolvedor Front-End, formado pela Cubos Academy, apaixonado por programar e compartilhar conhecimento e experiências.
+#### Sou Desenvolvedor Front-End, formado pela Cubos Academy, apaixonado por programar e compartilhar conhecimento e experiências. Esse perfil foi criado para adicionar todos os projetos desenvolvidos e co-participados por mim. Espero que gostem!
 
 ### 	:arrow_down_small: Para me encontrar:
 
