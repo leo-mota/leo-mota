@@ -4,7 +4,7 @@
 
 ### :technologist: Apaixonado por programar e compartilhar conhecimento e experiências. 
 
-### Esse perfil foi criado para adicionar todos os projetos desenvolvidos e co-participados por mim. Espero que gostem!
+### Aqui você encontrará todos os projetos desenvolvidos e co-participados por mim. Espero que goste!
 
 ### :link: Para me encontrar:
 
