@@ -1,14 +1,14 @@
-# Olá, pessoal!
+# :wave: Olá, pessoal!
 
-> Meu nome é Leonardo, mas podem me chamar de Léo. 
+> Meu nome é Leonardo, mas podem me chamar de Léo.
 
-#### Sou Desenvolvedor Front-End, formado pela Cubos Academy, apaixonado por programar e compartilhar conhecimento e experiências. Esse perfil foi criado para adicionar todos os projetos desenvolvidos e co-participados por mim. Espero que gostem!
+### :technologist: Sou um Desenvolvedor Front-End, formado pela Cubos Academy, apaixonado por programar e compartilhar conhecimento e experiências. Esse perfil foi criado para adicionar todos os projetos desenvolvidos e co-participados por mim. Espero que gostem!
 
-### 	:arrow_down_small: Para me encontrar:
+### :link: Para me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomotass/)
 
-### 💻 Hard Skills:
+### :hammer_and_pick: Hard Skills:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
