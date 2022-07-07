@@ -1,6 +1,5 @@
-# :wave: Olá, pessoal!
-
-> Meu nome é Leonardo, mas podem me chamar de Léo.
+# :beginner: Leonardo Mota
+>... mas pode me chamar de Léo.
 
 ### :technologist: Sou um Desenvolvedor Front-End, formado pela Cubos Academy, apaixonado por programar e compartilhar conhecimento e experiências. Esse perfil foi criado para adicionar todos os projetos desenvolvidos e co-participados por mim. Espero que gostem!
 
