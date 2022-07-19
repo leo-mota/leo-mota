@@ -19,13 +19,8 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 > "Se sonhar grande dá o mesmo trabalho que sonhar pequeno, por que vou sonhar pequeno?"  Jorge Paulo Lemann
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-mota)](https://github.com/leo-mota/github-readme-stats)
-![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
-
