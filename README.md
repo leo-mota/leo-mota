@@ -1,6 +1,6 @@
 # :beginner: Desenvolvedor Front-End
 
-> ... mas se quiser, pode me chamar de Léo. :wink:
+> ... Leonardo, mas se quiser, pode me chamar de Léo. :wink:
 
 ### :heavy_check_mark: Apaixonado por programar e compartilhar conhecimento e experiências. 
 
