@@ -27,5 +27,5 @@
 > "Se sonhar grande dá o mesmo trabalho que sonhar pequeno, por que vou sonhar pequeno?"  Jorge Paulo Lemann
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-mota)](https://github.com/leo-mota/github-readme-stats)
-![GRAPH](https://activity-graph.herokuapp.com/graph?username={leo-mota}&theme=minimal)
+![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
 
