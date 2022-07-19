@@ -1,6 +1,6 @@
 # :beginner: Leonardo Mota - Desenvolvedor Front-End
 
-> ... mas se quiser, pode me chamar de Léo :black_heart:
+> ... mas se quiser, pode me chamar de Léo. :wink:
 
 ### :heavy_check_mark: Apaixonado por programar e compartilhar conhecimento e experiências. 
 
