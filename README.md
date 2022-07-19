@@ -1,4 +1,4 @@
-# :beginner: Leonardo Mota - Desenvolvedor Front-End
+# :beginner: Desenvolvedor Front-End
 
 > ... mas se quiser, pode me chamar de Léo. :wink:
 
