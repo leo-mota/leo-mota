@@ -4,8 +4,6 @@
 
 ### :heavy_check_mark: Apaixonado por programar e compartilhar conhecimento e experiências. 
 
-### :heavy_check_mark: Aqui você encontrará todos os projetos desenvolvidos e co-participados por mim. Espero que goste!
-
 ### :link: Para me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomotass/)
